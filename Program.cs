@@ -24,8 +24,6 @@ namespace Methods
                 // divide
                 if (flag == '/')
                 {
-                    // suppose check is not there.. exc
-                    //if (b != 0)
                     {
                         return a / b;
 
